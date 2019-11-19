@@ -1,2 +1,0 @@
-# sv
-Created with CodeSandbox
